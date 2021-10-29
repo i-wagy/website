@@ -16,9 +16,12 @@ _Felipe Pereira_
 _Guilherme Machado_
 -Fez as estrutura inicial dos códigos
  
- _Felipe Pereira_
- -Fez o commit
+<strike> _Felipe Pereira_ </strike>
+<strike> -Fez o commit </strike>
 
- _Daniel Diniz_
- -Fez o "git push"
+ <strike> _Daniel Diniz_ </strike>
+ <strike> -Fez o "git push" </strike>
 
+```text
+NOTA PROF: Defina corretamente as entregas da equipe, não serão aceitas entregas como a última no decorrer das próximas semanas 
+```
