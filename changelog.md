@@ -14,7 +14,11 @@ _Felipe Pereira_
 ##29 de Outubro de 2021
 
 _Guilherme Machado_
--Fez as estrutra inicial dos códigos
+-Fez as estrutura inicial dos códigos
  
- 
+ _Felipe Pereira_
+ -Fez o commit
+
+ _Daniel Diniz_
+ -Fez o "git push"
 
