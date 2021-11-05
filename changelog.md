@@ -22,4 +22,4 @@ _Daniel Diniz_
 -Definiu o layout da página incial
 
 _Felipe Pereira_
--Criou links para
+-Criou links para as demais paginas
