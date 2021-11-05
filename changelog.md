@@ -19,7 +19,7 @@ _Guilherme Machado_
 ## 05 de Novembro de 2021
 
 _Daniel Diniz_
--Definiu o layout da página incial no HTML
+-Definiu o layout da página incial
 
 _Felipe Pereira_
--Criou links para as demais páginas
+-Criou links para
