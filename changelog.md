@@ -15,13 +15,10 @@ _Guilherme Machado e Maria Eduarda_
 
 _Guilherme Machado_
 -Fez as estrutura inicial dos códigos
+
+## 11 de Novembro de 2021
+
+_Felipe Pereira_
+-Criou e configurou o HTML e o CSS dos produtos, quem somos e contatos.
+-Linkou todas as páginas com a página inicial.
  
-<strike> _Felipe Pereira_ </strike>
-<strike> -Fez o commit </strike>
-
- <strike> _Daniel Diniz_ </strike>
- <strike> -Fez o "git push" </strike>
-
-```text
-NOTA PROF: Defina corretamente as entregas da equipe, não serão aceitas entregas como a última no decorrer das próximas semanas 
-```
