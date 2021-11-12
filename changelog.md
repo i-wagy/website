@@ -22,3 +22,7 @@ _Felipe Pereira_
 -Criou e configurou o HTML e o CSS dos produtos, quem somos e contatos.
 -Linkou todas as páginas com a página inicial.
  
+ ## 12 de Novembro 2021
+  
+_Maria Eduarda_
+-Escreveu sobre a empresa e cada cargo das pessoas do grupo.
