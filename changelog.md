@@ -34,3 +34,11 @@ _Maria Eduarda_
 
 _Felipe Pereira e Guilherme Machado_
 -Design da página "Quem Somos".
+
+## 22 de Novembro de 2021
+
+_Guilherme Machado_
+-Incluiu a base da página "produtos"
+
+_Daniel Diniz_
+-Estruturou a coleta de dados na aba "contatos"
