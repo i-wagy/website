@@ -40,3 +40,85 @@ header ul li a{
     text-decoration: none;
     color: #fff;
 }
+
+.wrapper{
+
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+
+
+
+#membros {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#membros h2{
+    color: #fff;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #c6c6c6;
+    
+}
+#conteudomembros{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+#conteudomembros div{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(255, 0, 0);
+}
+form imput,
+form textarea,
+form button {
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 5px;
+    border:1px solid transparent;
+    transition: border-color linear 0,2s;
+}
+form imput:focus
+form textarea:focus {
+border:2px solid black
+}
+form textarea{
+    resize: none;
+}
+form-content{
+    display: flex;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    padding: 10px;
+    margin:10px auto;
+    width: 100%;
+    max-width: 500px;
+
+}
+.form-group{
+    display:flex ;
+    flex-direction: column;
+}
+
+form button {
+    width: 100%;
+    margin-top: 30px;
+    background-color: brown;
+    color: white;
+    font-weight: 500;
+    font-size: 15px;
+    transition: background  linear 0,2s;
+}
+form button:hover{
+background-color:white
+}
+    #form-content:{
+        display:flex;
+        background: white;
+    }
