@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
 *{
     padding: 0;
     margin: 0;
@@ -12,7 +14,7 @@
 }
 
 body{
-    background-color:rgb(75, 71, 71);
+    background-color:rgb(29, 25, 25);
 }
 
 header{
@@ -65,16 +67,56 @@ header ul li a{
     
 }
 #conteudomembros{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    column-gap:5px ;
+    row-gap: 10px;
+    margin-top: 20px;
+    width: 100% ;    
+}
+
+.produto {
+    width: 325px;
+    transition: transform 0.5s;
+    position: relative;
+}
+
+.produto img{
+    width: 100%
+}
+
+/* .produto:hover{
+    transform: scale(1.05, 1.05);
+} */
+
+.descricao{
+    font-family: 'Open Sans', sans-serif ;
     width: 100%;
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 15px;
+    color: #fff;
+    display: none;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(34, 34, 34, 0.397);
 }
-#conteudomembros div{
-    width: 40px;
-    height: 40px;
-    background-color: rgb(255, 0, 0);
+
+
+.descricao button{
+    padding: 15px;
+    margin-top: 5px;
+    color: #fff;
+    background-color: #222;
+    transition: background 0.5s;
 }
+
+.descricao button:hover{
+    background-color: #111;
+}
+
+
 form imput,
 form textarea,
 form button {
@@ -88,6 +130,7 @@ form imput:focus
 form textarea:focus {
 border:2px solid black
 }
+
 form textarea{
     resize: none;
 }

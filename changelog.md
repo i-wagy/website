@@ -38,7 +38,22 @@ _Felipe Pereira e Guilherme Machado_
 ## 22 de Novembro de 2021
 
 _Guilherme Machado_
--Incluiu a base da página "produtos"
+-Incluiu a base da página "produtos".
 
 _Daniel Diniz_
--Estruturou a coleta de dados na aba "contatos"
+-Estruturou a coleta de dados na aba "contatos".
+
+## 23 de Novembro de 2021
+
+_Felipe Pereira_
+-Estruturou o JavaScript da coleta de dados.
+
+## 26 de Novembro de 2021
+
+_Felipe Pereira_
+-Fez o mockup e upou as imagens no pc.
+
+## 29 de Novembro de 2021
+
+_Daniel Diniz_
+-Editou a imagem no "Quem Somos"
