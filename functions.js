@@ -1,14 +1,15 @@
-var nome = document.getElementById
-var whatsapp =document.getElementById("whatsapp");
-var email=document.getElementById("email");
-var mensagem = Document.getElementById("mensagem");
-var btnEnviar =document.getElementById("enviar");
+var recebidos = JSON.parse(localStorage.getItem("@iwagy/messagens")) || []
 var contato =document.getElementById("contato")
 
-btnEnviar.addEventListener('submit' , event =>{
-    e.preventDefault ();
-    const formData = new FormData (event.target);
-    const date = new Date ().toLocaleDateString();
-    const info = Objet.fromEntries(formdata);
+contato.addEventListener("submit" , (event) =>{ event.preventDefault ();
+
+    const formData = new FormData(event.target);
+    const info = Object.fromEntries(formData);
+
+    recebidos.push(info)
+localStorage.setItem ("@iwagy/messagens", JSON.stringify(recebidos));
+
+contato.reset();
+    
 alert("mensagem enviada com sucesso");
 });
