@@ -57,3 +57,22 @@ _Felipe Pereira_
 
 _Daniel Diniz_
 -Editou a imagem no "Quem Somos"
+
+## 03 de Dezembro de 2021
+_Daniel Diniz_ 
+-Colocou as imagens no site,encaixou os valores ,acrescentou o "button",editou "nossos produtos"
+
+## 06 de Dezembro de 2021
+_Guilherme Machado_
+-Colocou as imagens de roupa nos destaques
+
+_Felipe Pereira_
+-Ajustou as bordas no site e realocou a logo no Vs Code
+
+_Daniel Diniz_ 
+-Editou a logo do site no photoshop,editou os preços de roupas.
+
+
+## 07 de Dezembro de 2021
+_Guilherme Machado_
+-Linkou o Email no "Quem Somos".
